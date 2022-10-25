@@ -1,2 +1,2 @@
-# CS-150-Work-Projects
-Uploads from CS 150
+# Everything from my CS 150 Class
+
