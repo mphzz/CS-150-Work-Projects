@@ -1,0 +1,4 @@
+First number value is: 45
+Second number value is: 22
+Third number value is: 100
+The sum of three number is: 167
